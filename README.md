@@ -1,0 +1,2 @@
+# GesturePitch
+GesturePitch is an computer vision based project which on the basis of hand gestures allows to control movement of slides in presentation as well as use pointer to draw on the presentation for the purpose of giving instructions. GesturePitch has solved the problems that the existing systems were facing by replacing the background and employing a threshold for gesture identification.
